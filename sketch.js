@@ -47,7 +47,7 @@
       monkey.addAnimation("died", diedm);
       monkey.scale = 0.36;
       //monkey.velocityX = 4;
-      monkey.debug = true;
+      
       monkey.setCollider("rectangle", 0, 0, monkey.width, 500);
       console.log(monkey.width);                      
      
